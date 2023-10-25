@@ -1,4 +1,4 @@
-# HopSkipJump-Attack-On-SIFT
+# HopSkipJump Attack On SIFT
 
 ## Introduction <a name="intro"></a>
 
