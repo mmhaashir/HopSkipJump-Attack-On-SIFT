@@ -27,6 +27,10 @@ To run this code, you will need the following Python libraries:
   - NumPy
   - PIL (Python Imaging Library)
 
+## Dataset
+
+The dataset can be downloaded [here](http://icvl.ee.ic.ac.uk/vbalnt/hpatches/). Download the `hpatches-sequence-release.tar.gz`
+
 ## Installation <a name="install"></a>
 
 1. Clone the repository:
