@@ -10,6 +10,7 @@ This project demonstrates how to perform a targeted attack using the HopSkipJump
 
 - [**Introduction**](#intro)
 - [**Dependencies**](#dep)
+- [**Dataset**](#data)
 - [**Installation**](#install)
 - [**Usage**](#usage)
 - [**Results**](#results)
@@ -27,7 +28,7 @@ To run this code, you will need the following Python libraries:
   - NumPy
   - PIL (Python Imaging Library)
 
-## Dataset
+## Dataset <a name="data"></a>
 
 The dataset can be downloaded [here](http://icvl.ee.ic.ac.uk/vbalnt/hpatches/). Download the `hpatches-sequence-release.tar.gz`
 
