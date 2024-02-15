@@ -37,7 +37,7 @@ The dataset can be downloaded [here](http://icvl.ee.ic.ac.uk/vbalnt/hpatches/). 
 1. Clone the repository:
    `git clone https://github.com/mmhaashir/HopSkipJump-Attack-On-SIFT.git`
    
-3. Install the required dependencies:
+2. Install the required dependencies:
    `pip install tensorflow adversarial-robustness-toolbox matplotlib requests numpy pillow`
 
 ## Usage <a name="usage"></a>
